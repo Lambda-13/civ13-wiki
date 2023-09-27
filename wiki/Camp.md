@@ -1,15 +1,12 @@
-# Camp
+# Лагерь
 
-**Camp** is set in France, The British and The French are trying to
-capture the castle in the middle of the map.
+**Лагерь** находится во Франции, британцы и французы пытаются захватить замок в центре карты.
 
-### Factions
+### Фракции
 
-  - The Kingdom of England, The English wear Red and Tan brown uniforms.
-  - The Kingdom of France, The French wear blue and white uniforms.
+  - Королевство Англии, англичане носят красные и коричневые формы.
+  - Королевство Франции, французы носят синие и белые формы.
 
-### Leadership
+### Руководство
 
-Each side has a **Lord** and **Knight**, the Lord is in charge of the
-entire faction, the Knight is usually a Marshal of their lord they have
-to control the military.
+На каждой стороне есть **лорд** и **рыцарь**, лорд отвечает за всю фракцию, рыцарь обычно является маршалом своего лорда и контролирует военную деятельность.

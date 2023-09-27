@@ -1,40 +1,28 @@
-# Colony Medic
-## Building A Medical Clinic
+# Колониальный медик
+## Построение медицинской клиники
 
-One of the first things you should do as a medic is try and get a
-medical clinic built. Usually you should talk to the Governor or Head
-Architect about its construction, but if there are none, try to
-commission a carpenter. Your Medical Clinic should be equipped with
-multiple beds to lay the waiting wounded, at least one operating room,
-and a stockpile of trauma and burn kits. If you're forced to scavenge
-try Healing Herbs instead of the Trauma Kits.
+Одно из первых дел, которое вам следует сделать как медику, это попытаться построить медицинскую клинику. Обычно вам следует обратиться к губернатору или главному архитектору относительно ее строительства, но если их нет, попробуйте нанять плотника. Ваша медицинская клиника должна быть оборудована несколькими кроватями для раненых, как минимум одним операционным помещением и запасом аптечек для травм и ожогов. Если вам приходится добывать ресурсы, используйте лечебные травы вместо аптечек для травм.
 
-### Your Job
+### Ваша работа
 
-You must take care of the colonists and make sure they're in top health.
-This includes the heavily wounded requiring surgery, to the guy who got
-a slap on the face for hitting on a nun. Even treat people with the flu.
-Your duties are not little and should not be taken lightly. If you wish
-to charge a fee for your medical services or not, is up to you to
-decide.
+Вы должны заботиться о колонистах и убедиться, что они в полном здоровье. Это включает в себя лечение тяжело раненых, таких как человек, получивший пощечину за домогательства к монахине, а также лечение людей с гриппом. Ваши обязанности не малы и не должны быть воспринимаемыми на легкий плече. Решать, взимать ли плату за медицинские услуги или нет, решать вам.
 
-#### Other Info
+#### Другая информация
 
-Requirements:
+Требования:
 
-1.  Know Surgery or have the guide ready
-2.  Know how to treat wounded without Hesitation
-3.  Learn to know what people are suffering from without a book just in
-    case
-4.  Quick hands, surgery needs to be quick, there are others wounded!
-5.  Clean your fucking hands degenerate!
+1. Знать хирургию или иметь готовое руководство
+2. Уметь лечить раненых без колебаний
+3. Научиться определять, от чего страдают люди, даже без книги на всякий случай
+4. Быстрые руки, хирургии нужно делать быстро, ведь есть и другие раненые!
+5. Мойте руки, проклятые дегенераты!
 
-Challenges:
+Трудности:
 
-1.  Pile up of wounded
-2.  Being murdered by deranged colonists
-3.  Being murdered by assholish security
-4.  Being murdered in General, it's a real problem sadly.
-5.  Being under equipped for your job.
+1. Накопление раненых
+2. Убийство со стороны сумасшедших колонистов
+3. Убийство со стороны бездушной охраны
+4. Убийство вообще, к сожалению, это серьезная проблема.
+5. Недостаточное оснащение для вашей работы.
 
-Medical Guide Link [(Guide to Medical)](Guide_to_Medical "wikilink")
+Ссылка на медицинское руководство [(Руководство по медицине)](Guide_to_Medical "wikilink")

@@ -1,27 +1,24 @@
-# Siege
-## Setting
+# Осада
+## Контекст
 
-This Game mode is set in lower Italia(Italy) before the Roman Republic
-became the Empire we all love and adore, the Romans are here to capture
-a Greek colonies' castle, while the Greeks have established a long-term
-defense of their castle.
+Этот игровой режим происходит в нижней Италии до того, как Римская Республика стала той Империей, которую мы все любим и обожаем. Римляне здесь, чтобы захватить замок греческой колонии, в то время как греки установили долгосрочную защиту своего замка.
 
-### Roman Roles
+### Римские роли
 
-| Roles                            | Image | Description                                                          | Diffuculty |
+| Роли                            | Изображение | Описание                                                          | Сложность |
 | -------------------------------- | ----- | -------------------------------------------------------------------- | ---------- |
-| Centurion (Roman Commander)      |       | Plan a strategy to crush Greek's Castle, command your Squad Leaders. | Very Hard  |
-| Decurion (Roman Squad Leader)    |       | Follow commander's orders and command your men.                      | Hard       |
-| Signifer (Roman Standard Bearer) |       | Follow Squad Leader's orders and kill the Greeks.                    | Medium     |
-| Legionarius (Main Infantry)      |       | Follow Squad Leader's orders and kill the greek defenders.           | Medium     |
-| Saggitarius (Light Archer)       |       | Assist others and follow your Squad Leader's orders.                 | Easy       |
+| Центурион (Командир римлян)      |       | Планируйте стратегию для разгрома замка греков, командуйте лидерами отрядов. | Очень сложно  |
+| Декурион (Лидер отряда римлян)    |       | Следуйте указаниям командира и командуйте своими людьми.                      | Сложно       |
+| Сигнифер (Стандартоносец римлян) |       | Следуйте указаниям лидера отряда и убивайте греков.                    | Средне     |
+| Легионер (Основная пехота)      |       | Следуйте указаниям лидера отряда и убивайте греческих защитников.           | Средне     |
+| Сагиттарий (Легкий лучник)       |       | Помогайте другим и следуйте указаниям лидера отряда.                 | Легко       |
 
-### WIP Greek Roles
+### WIP Греческие роли
 
-| Roles                            | Image | Description                                                               | Difficulty |
+| Роли                            | Изображение | Описание                                                               | Сложность |
 | -------------------------------- | ----- | ------------------------------------------------------------------------- | ---------- |
-| Centurion (Roman Commander)      |       | Plan a strategy to crush the roman's assault, command your Squad Leaders. | Very Hard  |
-| Decurion (Roman Squad Leader)    |       | Follow commander's orders and command your men.                           | Hard       |
-| Signifer (Roman Standard Bearer) |       | Follow Squad Leader's orders and kill the roman invaders.                 | Medium     |
-| Legionarius (Main Infantry)      |       | Follow Squad Leader's orders and kill the roman invaders.                 | Medium     |
-| Saggitarius (Light Archer)       |       | Assist others and follow your Squad Leader's orders.                      | Easy       |
+| Центурион (Командир римлян)      |       | Планируйте стратегию для разгрома атаки римлян, командуйте лидерами отрядов. | Очень сложно  |
+| Декурион (Лидер отряда римлян)    |       | Следуйте указаниям командира и командуйте своими людьми.                           | Сложно       |
+| Сигнифер (Стандартоносец римлян) |       | Следуйте указаниям лидера отряда и убивайте римских захватчиков.                 | Средне     |
+| Легионер (Основная пехота)      |       | Следуйте указаниям лидера отряда и убивайте римских захватчиков.                 | Средне     |
+| Сагиттарий (Легкий лучник)       |       | Помогайте другим и следуйте указаниям лидера отряда.                      | Легко       |

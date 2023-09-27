@@ -1,289 +1,224 @@
-# The Art of the Deal
+**The Art of the Deal**
 
-Welcome to **The Art of the Deal**, a game mode where you will need to
-plan, negotiate, bribe, and backstab if you wish to become the winning
-faction. This game mode has specific mechanics and rules that you need to
-familiarize with before playing, so read below - this article is not exhaustive,
-it only takes a few minutes. 
-**Not knowing the rules because you haven't read them before playing 
-isn't a valid excuse if you're caught breaking them.**
+Добро пожаловать в режим игры **The Art of the Deal**, где вам придется планировать, вести переговоры, давать взятки и предавать, если вы хотите стать победившей фракцией. В этом режиме игры есть особые механики и правила, с которыми вам нужно ознакомиться перед игрой, поэтому прочитайте ниже - эта статья не является исчерпывающей, она займет всего несколько минут. **Не знание правил, потому что вы их не прочитали перед игрой, не является допустимым оправданием, если вы будете пойманы при их нарушении.**
 
-## The Factions
+## Фракции
 
-There are four companies in the game mode:
+В этом режиме игры есть четыре компании:
 
-  - **Goldstein Solutions**, known as the *yellow team*, with its base being
-    on the **North-West** part of the map. Phone number: **4444**
-  - **Kogama Kraftsmen**, known as the *green team*, with its base being on
-    the **South-West** part of the map. Phone number: **3333**
-  - **Giovanni Blu Stocks**, known as the *blue team*, with its base being on the
-    **North-East** part of the map. Phone number: **2222**
-  - **Rednikov Industries**, known as the *red team*, with its base being on
-    the **South-East** part of the map. Phone number: **1111**
+  - **Goldstein Solutions**, известная как *желтая команда*, с базой на **северо-западе** карты. Номер телефона: **4444**
+  - **Kogama Kraftsmen**, известная как *зеленая команда*, с базой на **юго-западе** карты. Номер телефона: **3333**
+  - **Giovanni Blu Stocks**, известная как *синяя команда*, с базой на **северо-востоке** карты. Номер телефона: **2222**
+  - **Rednikov Industries**, известная как *красная команда*, с базой на **юго-востоке** карты. Номер телефона: **1111**
 
-In some rounds, **the Police** might be active. The Police station is
-near the center of the map - see [The Art of the Deal\#The
-Police](The_Art_of_the_Deal#The_Police "wikilink") for their specific
-mechanics.
+В некоторых раундах **Полиция** может быть активна. Полицейский участок находится недалеко от центра карты - см. [The Art of the Deal\#The
+Police](The_Art_of_the_Deal#The_Police "wikilink") для получения информации о их конкретных механиках.
 
-There are also **Paramedics**. They have a fully furnished hospital and
-ambulances. **Be aware that killing a paramedic will greatly reduce your
-faction's score!** Both the Police and Paramedics can be reached by
-calling **911**.
+Также есть **Парамедики**. У них есть полностью оборудованная больница и скорые помощи. **Будьте внимательны, убийство парамедика значительно снизит счет вашей фракции!** К полиции и парамедикам можно позвонить по номеру **911**.
 
-## Companies
+## Компании
 
-### The HQ
+### Штаб-квартира
 
-Each company headquarters features a meeting room, an armory/storage
-room, a vault, a common area, and a garage. Below is a screenshot of the
-Red Corporation's HQ - all others have a similar layout.
+В штаб-квартире каждой компании есть переговорная комната, оружейная/склад,
+сейф, общая зона и гараж. Ниже приведен скриншот штаб-квартиры Red Corporation - у всех остальных компаний аналогичная планировка.
 
 ![Red HQ](assets/images/red_hq.png)
 
-#### Meeting Room
+#### Переговорная комната
 
-This is where the team members spawn. Players should take some time
-before the grace wall ends to plan their strategy. There is a wall map
-that can be used to check which areas to go to.
+Здесь появляются члены команды. Игрокам следует потратить некоторое время перед окончанием grace wall, чтобы спланировать свою стратегию. Есть стенная карта, на которой можно проверить, в какие области следует отправиться.
 
-#### Armory
+#### Оружейная
 
-At every company's HQ there is a storage room with equipment racks.
-While the equipment is free, you will have to spend some of the company
-money to buy weapons at the gun shop or on the DEEPNET.
+В штаб-квартире каждой компании есть склад с оружием. Хотя оружие бесплатно, вам придется потратить некоторую часть денег компании, чтобы купить оружие в магазине оружия или на DEEPNET.
 
-#### Vault
+#### Сейф
 
-The vault is where your team's starting disks are located. The vault is
-where money should be deposited to keep it safe. Team leaders should
-make sure the money is spent appropriately.
+В сейфе находятся стартовые диски вашей команды. Сейф - это место, где деньги должны быть внесены для их сохранности. Руководители команды должны убедиться, что деньги тратятся надлежащим образом.
 
-#### The Map
+#### Карта
 
-The map is divided into 10 columns from A to J, and 10 lines from 1 to
-10. Each square has 22x22 tiles. You can check your current position on
-the top of the screen, along with the coordinates. At the HQ, there is a
-wall map that can be used for planning during the briefing: this map can
-be drawn on. Players also spawn with a **portable map**.
+Карта разделена на 10 столбцов от A до J и 10 строк от 1 до 10. Каждый квадрат имеет размер 22x22 тайла. Вы можете проверить свое текущее положение в верхней части экрана вместе с координатами. В штаб-квартире есть стенная карта, которую можно использовать для планирования во время информационного собрания: на эту карту можно рисовать. Игроки также появляются с **портативной картой**.
 
-![Minimap](assets/images/minimap.png)
+![Миникарта](assets/images/minimap.png)
 
-### Radios and Phones
+### Радио и телефоны
 
-Each person spawns with a single-frequency **radio** tuned to that
-factions frequency. It can be used to securely talk with their fellow faction
-members. You will need another faction's radio to listen to their frequency.
+Каждый человек появляется с одночастотным **радио**, настроенным на частоту своей фракции. Оно может быть использовано для безопасного разговора с членами своей фракции. Чтобы прослушивать частоту другой фракции, вам понадобится радио этой фракции.
 
-**Company Telephones** can be used to contact 911 or other companies.
-The numbers are pre-stored in the address book of the static phones at
-the HQ.
+**Телефоны компаний** можно использовать для связи с 911 или другими компаниями. Номера заранее сохранены в адресной книге стационарных телефонов в штаб-квартире.
 
-CEO have a personal cellular phone at their disposal.
+У генерального директора есть личный мобильный телефон в его распоряжении.
 
-### Computers
+### Компьютеры
 
-Each base has computers that can be used to access the black market
-(DEEPNET), the E-LEKTRA store and to send e-mails to other companies. 
-Each company has a general e-mail, as described below, 
-but each member also has a personal e-mail.
-When you login you can see all the personal and global e-mails.
+В каждой базе есть компьютеры, которые можно использовать для доступа к чёрному рынку (DEEPNET), магазину E-LEKTRA и отправки электронных писем другим компаниям. У каждой компании есть общий электронный адрес, описанный ниже, но у каждого участника также есть личный электронный адрес. При входе вы можете видеть все личные и глобальные электронные письма.
 
-| Company             | HQ Phone | Global E-mail     |
-| ------------------- | -------- | ----------------- |
-| Rednikov Industries | 1111     | mail@rednikov.ug  |
-| Kogama Kraftsmen    | 2222     | mail@kogama.ug    |
-| Giovanni Blu Stocks | 3333     | mail@blu.ug       |
-| Goldstein Solutions | 4444     | mail@goldstein.ug |
+| Компания              | Телефон Штаб-квартиры | Глобальный E-mail     |
+| --------------------- | -------------------- | --------------------- |
+| Rednikov Industries   | 1111                 | mail@rednikov.ug      |
+| Kogama Kraftsmen      | 2222                 | mail@kogama.ug        |
+| Giovanni Blu Stocks   | 3333                 | mail@blu.ug           |
+| Goldstein Solutions   | 4444                 | mail@goldstein.ug     |
 
-### Disks
+### Диски
 
-Each company starts with several **real** and **fake** disks. 
-*Only the company who produced the disk can check if it is real or not by
-examining the disk!*
+Каждая компания начинает с нескольких **реальных** и **поддельных** дисков. *Только компания, которая произвела диск, может проверить, является ли он настоящим или нет, осмотрев диск!*
 
-Disks also have active and inactive states. To activate a disk, you
-need to touch it with another faction's disk, for example, during an
-exchange. Disks can only be activated once. You can check if a disk is
-active by examining it.
+Диски также имеют активное и неактивное состояния. Чтобы активировать диск, вам нужно прикоснуться к нему другим диском фракции, например, во время обмена. Диски могут быть активированы только один раз. Вы можете проверить, активен ли диск, осмотрев его.
 
-To read a disk, **put it into the computer at the HQ**. What you get for
-it depends on three factors: 1) if the disk is real, 2) if it is active,
-and 3) if it was exchanged (activated) with a real or fake disk.
+Чтобы прочитать диск, **положите его в компьютер в штаб-квартире**. Что вы получите за это, зависит от трех факторов: 1) является ли диск настоящим, 2) активен ли он и 3) был ли он обменен (активирован) с помощью настоящего или поддельного диска.
 
-Reading an **inactive disk**:
+Чтение **неактивного диска**:
 
-  - If **real**, you gain 100 dollars and 100 points.
-  - If **fake**, you lose 100 points.
+  - Если **настоящий**, вы получаете 100 долларов и 100 очков.
+  - Если **поддельный**, вы теряете 100 очков.
 
-Reading an **active disk**:
+Чтение **активного диска**:
 
 |       |                           |                           |
 | ----- | ------------------------- | ------------------------- |
-| A↓ B→ | Real                      | Fake                      |
-| Real  | Both give 400$ & 400 pts  | Real gives 200$ & 200 pts |
-| Fake  | Real gives 200$ & 200 pts | Both lose 200 pts         |
+| A↓ B→ | Настоящий                 | Поддельный                |
+| Наст. | Оба дают 400$ и 400 очков | Наст. даёт 200$ и 200 очков |
+| Подд. | Наст. даёт 200$ и 200 очков | Оба теряют 200 очков        |
 
-### Manufacturing chips (components)
+### Производство микросхем (компонентов)
 
-Each company has a factory area that can be used to produce electronic
-**components (chips)**. They need a specific **precursor crystal** to produce
-their faction-specific component, that must be acquired from other
-companies - They will also be able to order a precursor needed for another
-company to manufacture their proprietary component.
+У каждой компании есть зона фабрики, которая может использоваться для производства электронных **компонентов (микросхем)**. Для производства своего фракционного компонента им необходимы специфические **кристаллы-предшественники**, которые должны быть получены от других компаний. Они также смогут заказать предшественник, необходимый другой компании для производства их собственного компонента.
 
-To produce, use the crystals on the loader part of the machine and wait
-about **1 minute**.
+Для производства используйте кристаллы на части загрузчика машины и подождите около **1 минуты**.
 
-Example: **Red** needs *Yellow chips*, so **Red** buys *yellow precursor crystals* and makes 
-a deal with **Yellow**, they trade the precursor and cash for chips. **Yellow** then takes the 
-*yellow precursor* and manufactures *yellow chips.* 
-**Yellow** then gives back the *yellow chips* to **Red** (or not).
+Пример: **Красные** нуждаются в *жёлтых микросхемах*, поэтому **Красные** покупают *жёлтые кристаллы-предшественники* и заключают сделку с **Жёлтыми**, они обменивают предшественник и деньги на микросхемы. Затем **Жёлтые** берут *жёлтый предшественник* и производят *жёлтые микросхемы*. Затем **Жёлтые** возвращают *жёлтые микросхемы* **Красным** (или нет).
 
-The company will receive e-mails with orders for components regularly,
-so be sure to check the desktop computer. Each order will feature a
-**postbox location** where the products are to be delivered in the correct amount. 
-The payment will be delivered directly to the safe at the company's HQ.
+Компания будет регулярно получать электронные письма с заказами на компоненты, поэтому обязательно проверяйте настольный компьютер. Каждый заказ будет содержать **адрес почтового ящика**, куда продукцию нужно доставить в правильном количестве. Оплата будет доставлена непосредственно в сейф в штаб-квартире компании.
 
-**Precursors (crystals)** can be ordered from the *E-LEKTRA* marketplace on each
-desktop.
+**Предшественники (кристаллы)** можно заказать на рынке *E-LEKTRA* на каждом настольном компьютере.
 
-| Company | Precursor Needed    | Chip Produced   |
-| ------- | ------------------- | --------------- |
-| Red     | crimsonite crystals | RDKV S-445 chip |
-| Green   | verdine crystals    | KOGM S5R1 chip  |
-| Yellow  | galdonium crystals  | GS-IC-M3 chip   |
-| Blue    | indigon crystals    | GBSA-1994 chip  |
+| Компания | Необходимый предшественник | Производимая микросхема |
+| -------- | ------------------------ | ---------------------- |
+| Красные  | кристаллы кримсонита     | RDKV S-445             |
+| Зелёные  | кристаллы вердина         | KOGM S5R1              |
+| Жёлтые   | кристаллы галдония        | GS-IC-M3               |
+| Синие    | кристаллы индиго          | GBSA-1994              |
 
-### Vehicles
-**Do not drive a vehicle without knowing how, make sure you drive on the right side of the road!**
+### Транспортные средства
+**Не водите транспортное средство, если не знаете, как это делать, убедитесь, что вы едете по правой стороне дороги!**
 https://civ13.github.io/civ13-wiki/Guide_to_Tanks#driving
-Vehicles can be bought at the **car dealership** in the center. 
-Be aware that driving stolen cars will get you a warrant!
+Транспортные средства можно приобрести в **автосалоне** в центре. 
+Будьте осторожны, вождение украденных автомобилей приведет к выдаче ордера на арест!
 
-### Guns
+### Оружие
 
-There are two ways of acquiring guns - legal and illegal.
+Существуют два способа приобретения оружия - легальный и нелегальный.
 
-To get them **legally**: go to the Police Station with **100 dollars**
-and use the terminal at the reception. You need to have the money in your hands when ordering it.
-You will need to have a clean police record. Then you can go to the gun store and buy them.
+Для получения его **легально**: отправляйтесь в полицейский участок с **100 долларами**
+и используйте терминал на стойке регистрации. Вам нужно будет иметь деньги в руках при заказе.
+Вам также потребуется чистая полицейская запись. Затем вы можете отправиться в оружейный магазин и купить его.
 
-To get them **illegally**, you will need to either buy them from another
-company, get someone to buy them for you, or find a black market vendor.
-Be aware that unregistered **guns with their numbers filed out are
-illegal to possess even when you have a gun permit.**
+Для получения его **нелегально** вам понадобится либо купить его у другой компании, попросить кого-то купить его за вас, или найти продавца на черном рынке.
+Будьте осторожны, незарегистрированные **оружие с вытаченными номерами являются
+незаконным владением, даже если у вас есть разрешение на оружие.**
 
-### Citizen's Arrest
+### Гражданский арест
 
-You can arrest a member of another company who has a pending warrant.
-Bring him handcuffed/roped to the station and use the terminal near the
-reception. You will get paid **100 dollars**.
+Вы можете арестовать члена другой компании, у которого есть ордер на арест.
+Приведите его в наручниках/связанного в участок и используйте терминал рядом с
+регистрацией. Вы получите **100 долларов**.
 
-## The Police
+## Полиция
 
-The police is in charge of making sure everyone follows the law. Check
-[The Art of the Deal\#Rules](The_Art_of_the_Deal#Rules "wikilink") for
-which laws can be enforced.
+Полиция отвечает за то, чтобы все соблюдали закон. Проверьте
+[The Art of the Deal\#Rules](The_Art_of_the_Deal#Rules "wikilink") чтобы
+узнать, какие законы могут быть применены.
 
-### The Station
+### Участок
 
-![Police Station](assets/images/police_station.png)
+![Полицейский участок](assets/images/police_station.png)
 
-#### Main Room
+#### Главный зал
 
-This is where the team members spawn. Players should take some time
-before the grace wall ends to plan their strategy. There is a wall map
-that can be used to check which ares to go to, and a 911 terminal where
-you can receive calls from the factions.
+Здесь появляются члены команды. Игрокам следует потратить некоторое время
+до окончания стены милости, чтобы спланировать свою стратегию. Есть стенная карта,
+которую можно использовать для проверки, в какие области следует отправиться, а также терминал 911, где
+можно получать звонки от фракций.
 
-#### Armory
+#### Оружейная
 
-The Police armory has plenty of equipment available for free for all the
-members of the force. Other factions can't access the lockers.
+В оружейной полиции имеется множество оборудования, доступного бесплатно для всех
+членов силы. Другие фракции не могут получить доступ к шкафам.
 
-#### Evidence Room
+#### Комната доказательств
 
-This is where the Police should keep apprehended money, guns, and disks.
-They will count towards the score as long as they're there.
+Здесь полиция должна хранить арестованные деньги, оружие и диски.
+Они будут учитываться в счете, пока они находятся здесь.
 
-#### Jail
+#### Тюрьма
 
-If the police manage to arrest a faction member, they should be brought
-here. Sit them in the bench next to the terminal, and use it to check
-for warrants. If the suspect has pending warrants, it will automatically
-clear them and give the Police points, so they can be released.
+Если полиции удается арестовать члена фракции, его следует привести
+сюда. Посадите его на скамейку рядом с терминалом и используйте его, чтобы проверить
+наличие ордеров на арест. Если у подозреваемого есть ожидающие ордера, они автоматически
+будут отменены и полиция получит очки, чтобы его освободить.
 
-#### Garage
+### Гараж
 
-The Police Department has 2 starting police interceptors below the police station.
+В полицейском участке ниже находятся 2 полицейских перехватчика.
 
-#### The Map
+### Карта
 
-See [The Art of the Deal\#The
+См. [The Art of the Deal\#The
 Map](The_Art_of_the_Deal#The_Map "wikilink").
 
-### Radios
+### Радиостанции
 
-Police radios are single-frequency and encrypted, meaning that other
-factions cannot listen to police communications unless they manage to
-get one of their radios.
+Полицейские радиостанции имеют одну частоту и зашифрованы, что означает, что другие
+фракции не могут прослушивать полицейскую связь, если им не удастся
+получить одну из их радиостанций.
 
-### Police Codes
+### Полицейские коды
 
-As an officer, you can use police codes for fast broadcasting. It will
-be automatically converted to plaintext. Just use the radio prefix
-followed by the code, for example, **";10-4"** for affirmative.
+Как офицер, вы можете использовать полицейские коды для быстрой передачи информации. Они
+будут автоматически преобразованы в обычный текст. Просто используйте префикс радио
+с последующим кодом, например, **";10-4"** для утвердительного ответа.
 
-| Code | Meaning                                                                                                                                                                                                        |
+| Код | Значение                                                                                                                                                                                                       |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10-0 | On my way (show current location)                                                                                                                                                                              |
-| 10-1 | Share Location                                                                                                                                                                                                 |
-| 10-2 | Report in as being available                                                                                                                                                                                   |
-| 10-3 | Report in as being busy                                                                                                                                                                                        |
-| 10-4 | Affirmative / Roger                                                                                                                                                                                            |
-| 10-5 | Negative / Impossible                                                                                                                                                                                          |
-| 10-6 | Returning to the Police Station                                                                                                                                                                                |
-| 10-7 | Prisoner in custody / Arrested suspect                                                                                                                                                                         |
-| 10-8 | Request immediate assistance / Officer injured - All non-busy units should answer with a **10-0** and proceed to location (shows current location)                                                             |
-| 10-9 | Officer down, all units should answer with a **10-0** and proceed to location (shows current location) - This is automatically sent if an officer gets killed, no need for manual input, use **10-8** instead. |
+| 10-0 | В пути (показать текущее местоположение)                                                                                                                                                                              |
+| 10-1 | Поделиться местоположением                                                                                                                                                                                                 |
+| 10-2 | Сообщить о доступности                                                                                                                                                                                   |
+| 10-3 | Сообщить о занятости                                                                                                                                                                                        |
+| 10-4 | Утвердительно / Принято                                                                                                                                                                                            |
+| 10-5 | Отрицательно / Невозможно                                                                                                                                                                                          |
+| 10-6 | Возвращаюсь в полицейский участок                                                                                                                                                                                |
+| 10-7 | Задержан подозреваемый / Арестованный                                                                                                                                                                              |
+| 10-8 | Запросить немедленную помощь / Раненый офицер - Все свободные единицы должны ответить с **10-0** и отправиться на место (показывает текущее местоположение)                                                             |
+| 10-9 | Раненый офицер, все единицы должны ответить с **10-0** и отправиться на место (показывает текущее местоположение) - Это автоматически отправляется, если офицер убит, не требуется ввода вручную, используйте **10-8** вместо этого. |
 
-### Going Undercover
+### Маскировка
+как полицейский, вы можете заниматься тайными операциями, переодевшись в гражданскую одежду (доступно в оружейной) и **переключившись в режим тайного агента во вкладке IC**. Не забудьте взять свою значок на случай задержания.
 
-As a police officer, you can go undercover by switching into civilian
-clothes (available at the armory) and **toggling the undercover mode
-under the IC tab**. Make sure to bring your badge in case you get detained.
+## Каждая фракция имеет свои цели, которые будут учитываться в счете.
 
-## Objectives and Rules
+### Компании
 
-Each faction has different objectives that will count towards the score.
+Каждая компания должна набрать как можно больше денег. погибшие члены будут уменьшать счет. деньги должны храниться в сейфе. чтобы узнать, как работает преобразование дисков в деньги, посмотрите [The Art of the Deal\#Disks](The_Art_of_the_Deal#Disks "wikilink"). нападение на полицейских офицеров *следует избегать во что бы то ни стало*, так как это уменьшит очки компании и даст полиции повод для обыска штаб-квартиры!
 
-### Companies
-
-Each company must acquire as much money as possible. Dead members will
-reduce the score. Money must be stored in the safe. To see how the disk
-conversion to money works, check [The Art of the
-Deal\#Disks](The_Art_of_the_Deal#Disks "wikilink"). Attacking Police
-Officers *should be avoided at all costs*, as it will reduce the
-company's points and give the police reason to search the HQ!
-
-**Score Values:**
+оценочные значения:
 
 |                       |           |
 | --------------------- | --------- |
-| Money                 | 1$ = 1 pt |
-| Dead Members          | \-100 pts |
-| Killed Police Officer | \-250 pts |
-| Killed Paramedic      | \-500 pts |
+| Деньги                 | 1$ = 1 pt |
+| Погибшие члены          | \-100 pts |
+| Убитые полицейские офицеры | \-250 pts |
+| Убитые фельдшеры      | \-500 pts |
 
-### Police
+### Полиция
 
-The police get points for arresting company members after bringing them to
-jail at the police station, after processing their warrant. 
-They will lose points for every officer killed. 
-Apprehended disks and money also count towards the score, and
-are to be kept in the **Evidence Room** in order to take effect.
-Crystals and chips are legal and are not considered contraband.
+Полиция получает очки за задержание членов компании после доставки их в тюрьму на полицейском участке после обработки их ордера. 
+они будут терять очки за каждого убитого офицера. 
+задержанные диски и деньги также учитываются в счете и
+должны храниться в **Комнате Доказательств**, чтобы оказывать влияние.
+кристаллы и фишки являются законными и не считаются контрабандой.
 
 #### Rules
 
@@ -356,17 +291,10 @@ discretion of an admin, may include job-bans, up to a playing ban.
 | Money                     | 1$ = 1 pts |
 | Dead Officers             | \-150 pts  |
 
-## Round Example
+## Пример раунда
 
-The Red team contacts all the other teams to sell their disk. Green and
-Blue are interested. Blue offers more money, so they decide to go with
-them; however, Red decides to double-cross the Green team, scheduling a
-meeting near the gas station and warning the police about it.
+Команда Red связывается со всеми остальными командами, чтобы продать свой диск. Команды Green и Blue заинтересованы. Blue предлагает больше денег, поэтому они решают работать с ними; однако, Red решает сделать предательский ход в отношении команды Green, назначая встречу возле заправки и предупреждая полицию об этом.
 
-Blue and Red successfully trade a disk for 400$. Meanwhile, the police
-show up and manage to arrest one of the green company members, while the
-rest of the team gets away.
+Blue и Red успешно обмениваются диском на 400$. Тем временем, полиция приезжает и удается арестовать одного из членов команды Green, в то время как остальные участники команды уходят.
 
-The Green team contacts the Police in order to bail out their member:
-They offer 350$. The Police accept and both schedule a meeting to
-deliver the money.
+Команда Green связывается с полицией, чтобы выкупить своего члена: они предлагают 350$. Полиция соглашается, и обе стороны назначают встречу для передачи денег.
