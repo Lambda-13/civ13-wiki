@@ -1,184 +1,127 @@
-# Guide to Tanks
-The 1945 epoch now has tanks! (Yay)
+# РУКОВОДСТВО ПО ТАНКАМ & ТЕХНИКЕ
+Начиная с эпохи *Второй Мировой*, на поле боя приходят монструозные создания... **Танки.**
+*Ну и машины...*
 
-There are 5 roles for the crew of the tank. In order to be effective,
-all roles most communicate with each other, organize and work
-together.
+Существуют 5 ролей членов экипажа техники. Дабы быть эффективным на поле боя, 
+экипажу необходимо *организовываться*, *коммуницировать с друг-дружкой*, 
+и, *работать слажено*.
 
-## The Roles
+## РОЛИ
 
-  - **The Commander**: The commander of the tank is the role requiring
-    the most responsibility. You're the one calling the shots (quite
-    literally). Your job is to calculate the distance between you and
-    enemy and inform your gunner about the meter and the left right
-    sway. You also have to organize the tank crew, tell driver where to
-    drive, yell at loader what ammo type to load, and order
-    machine-gunner to fire. To calculate the distance of the enemy, you
-    have to buckle yourself down to the commander's seat. Once you sit
-    down, you will now calculate the distance of anything between you,
-    by clicking on it. After sitting, you will also be avaible to use
-    the telescope of the tank. This way, you can see afar, and thus be
-    able to calculate the longer distances. (That's the whole purpose)
+  - **КОМАНДИР (COMMANDER)**: Командир бронетехники требует от себя очень
+    **БОЛЬШОЙ** коммуникации с экипажем. Именно Вы, командир, и командуете.
+    Несомненно, вторая по важности Ваша задача - **координировать** наводчика орудия,
+    давать ему координаты (в метрах), вместе с поправкой левой стороны или правой.
+    Также важно **отдавать приказы:** водителю техники (направление движения), заряжающему орудия
+    (перезарядка орудия на определённые типы боеприпасов), стрелку-пулемётчику
+    (расстрел мелкашки перед носом техники). Чтобы **определить дистанцию** до противника,
+    Вам необходимо пристегнуть себя к *креслу командира* (commander's seat). Как только 
+    Вы проделаете сие действие, Вы будете способны определить дистанцию *нажатием клавиши мыши*.
+    Таким образом, Вам будет **доступен телескоп**, с помощью которого можно разглядеть кого-либо
+    вдали привычной, ограниченной, дистанции (вычисление дальности так же возможно).
+    **Командир очень важный человек в Вашем танке, всегда слушайте его!**
+    *"Я В ШОКЕ, ОН УВИДЕЛ МЕНЯ!"*
 
-  - **The Loader**: Your job is the easiest one. You will wait for the
-    commander to tell you what shell type to load, and you will simply
-    take the said shell from the rack or floor (depending on your unga
-    level) and will insert it into the turret. To achieve that, get
-    behind the turret of the tank. Click on the rack behind you, then
-    click on the shell. After taking the shell into your hand, click on
-    the turret of the tank. Congratulations, you loaded the
-    cannon. (Probably got the wrong type anyways.)
+  - **ЗАРЯЖАЮЩИЙ ОРУДИЯ (LOADER)**: У Вас одна из самых *простых задач* среди экипажа. Ожидайте приказов на
+    перезарядку орудия и исполняйте их. Для того, **чтобы перезарядить орудие**, Вам необходимо *взять* нужный тип снаряда из *стелажа* (rack)
+    или подобрать его с пола, после чего засунуть *боеприпас* (нажатием клавиши мыши) *в казённик* (turret), не забыв подойти напротив него. 
+    **Не забывайте, что у каждого танка может отличаться калибр и, соотвественно, боеприпасы для него.**
+    *"Я ВАС ПОЗДРАВЛЯЮ, ВЫ КВАЛИФИЦИРОВАННЫЙ ТАНКИСТ-АС В ПЕРЕЗАРЯДКЕ!"*
 
-  - **The Gunner**: As a gunner, your job is to enter the parameters
-    commander told you. Depending on the type of tank you might have to load the gun yourself using the autoloader (In your firing panel there is a button to load a shell). After that wait for his order to fire. To accomplish
-    that, you must get to the side of the turret (preferably, you can
-    buckle yourself down to the Gunners Seat) and left click on the
-    turret. You will now access a menu, telling you what shell is
-    loaded, what is the firing distance in meters, what is the
-    left/right sway in numbers and a big fire button. To enter a
-    parameter, you must click on the meter or left right sway button,
-    then type down the numbers your commander gave you. After doing
-    that, you must left click on the fire button and wait a couple of
-    seconds to fire. Congratulations, you fired the turret. (Probably
-    missed though)
+  - **НАВОДЧИК ОРУДИЯ (GUNNER)**: Как наводчик, Вы должны *вводить параметры*, указанные командиром.
+    В зависимости от техники, Вам, возможно, придётся **самостоятельно заряжать снаряды в казённик** (автомат заряжания) или же, напротив, 
+    у Вас *будет заряжающий* (казённик). Чтобы *зарядить орудие* в первом варианте, Вам нужно *подойти с боку* (предпочтительно сесть на сидение наводчика) 
+    ствола (turret) и нажать левой кнопкой мыши по стволу. Вам *откроется доступ* к меню, сообщающий тип снаряда в дуле,
+    указанную дистанцию в метрах, поправку на стрельбу в левую или правую сторону и большая кнопка выстрела (fire button). Чтобы ввести **параметры**
+    в этом меню, например, координаты до чужого окопа надо кликнуть meter и ввести сами координаты, после указать отклонения влево, вправо. 
+    После проделывания данных действий, кликайте смело кнопку выстрела и через пару секунд Ваша цель будет поражена!
+    *"Мои поздравления! Отныне Вы профессионал в стрельбе по своим! Ой, Я.. Я имею в виду по противникам!"*
 
-  - **The Machine-Gunner**; You are expected to operate the machine gun
-    in front of the tank. To do that, approach to the machine gun in
-    front, inside the tank. Take an ammo belt from the floor into your
-    hands, then left click on the gun to load the ammo. Once the ammo is
-    loaded, left click on the gun with empty hands. Congratulations, you
-    managed to man the gun. You are also now aiming forward to enhance
-    your view. Now, to fire the gun, simply press on the direction you
-    want to fire. (Have you actually hit anything with that machine
-    gun?!)
+  - **СТРЕЛОК-ПУЛЕМЁТЧИК (MACHINE-GUNNER)**: Ожидается, что Вы будете ответственны за пулемёт спереди Вашей техники. 
+    Чтобы **сесть за пулемёт**, необходимо его *нахождение внутри*, в передней части корпуса техники. Возьмите *оружейную ленту* для Вашего пулемёта в руку с пола
+    (обычно там находятся ленты) и после *кликните по пулемёту лентой*, чтобы его зарядить этой лентой. Когда пулемёт будет заряжен,
+    *кликните по нему пустой рукой*. Поздравляем, Вы теперь управляете заряженным пулемётом (Вам также доступна возможность вглядываться вдаль). 
+    **Теперь, стрельба из пулемёта возможна обычным нажатием кнопки мыши.**
+    *"НАДЕЙТЕСЬ, ПАРНИ, ЧТО ПУЛЕМЁТЧИК КОСОЙ!"*
     
-  - **The Driver**: You are expected to drive/rotate the tank. Your job
-    is more complex compared to the other roles, but do not let that
-    scare you off. In order to start the tank, you must first sit on the
-    driver's seat. After sitting and having the wheels selected in your
-    hand, you can start the engine by pressing Z, and you can accelerate
-    it by pressing Z again. To decelerate or to shut the engine, you
-    must press the "C" key. To turn the tank left, you must press "A".
-    To turn the tank to right, you must press "D". In order to shift to
-    reverse you must press the button "S", but to do so, you must go at
-    1st gear, or while the engine is shut off. To be able to move
-    forward again, you must press the key "W" at 1st gear or while the
-    engine is shut. Keep practicing to master your
-    blitzkrieg/encirclement skills.(You will probably run over your own
-    soldiers)
+  - **ВОДИТЕЛЬ (DRIVER)**: **За Вами закреплено управление техникой**. Ваша задача довольна сложная на первый взгляд, однако не стоит отчаиваться!
+    *Во-первых*, Вы, исходя из должности, водитель, а следовательно Ваша основная цель - *привести технику куда потребуется*. Именно на *Вас*, в основном,
+    *завязана живучесть управляемой техники* экипажем. *Во-вторых*, чтобы водить - *надо знать управление*, которое будет представлено далее.
+    Чтобы завести машину и управлять ей, необходимо: сесть в кресло водителя, использовать активной только руку с рулём (также в меню IC есть кнопки актив хэнд и секонд хэнд), затем нажать "Z". Нажатием "Z" Вы активируете движок. Чтобы двигаться вперёд, достаточно нажать "Z" ещё раз, предварительно нажав "W" (Ваше передвижение будет в сторону носа техники). Последующие нажатия "Z" будут переключать передачи, отчего Ваша техника будет двигаться быстрее. Нажатием "C" Вы, напротив, уменьшите передачу, вследствие чего техника станет двигаться медленее. И таким образом можно остановить технику. Чтобы езжать реверсом, надо нажать "S" и снова прожать "Z", 
+    с остановленной техникой. Для поворота налево или направо необходимо нажимать соотвествующие кнопки "A" и "D".
+    **Всегда оттачивайте навыки вождения на технике, а то будете в гробовозной.**
+    *"ПОМНИТЕ! ИСТИННЫЙ РАЙАН ГОСЛИНГ - ТОТ, КТО УМЕЕТ ВОДИТЬ ТЕХНИКУ НА ЦИВИЛИЗАЦИИ 13"*
 
 
-**Tips:**
-* The tank can only go forward or backwards and rotate to left and
-right. This is different from WASD(W to go forward, S to go back, you
-know the drill) control, so it may take some time to master. It is
-advised to drive jeeps first to get used to the driving system.
-* You can run over trees/buildings with your tank and it does not
-damage your tank.
-* You can insta gib/kill any infantry if you run over them.
-* It is advised to face directly towards the enemy. It will make
-shooting it a lot easier.
-* Your loader can not load the turret if you are moving. Let him load
-by shutting the engine or not accelerating.
-* If you run over non-deployed anti-tank mines/anti-tank grenades, they
-will still explode and damage your tank.
-* You can not rotate your tank on its own axis if it is standing still.
-The tank must be moving in order rotate it.
-* Rotating your tank rapidly causes your tank to become a jigsaw
-puzzle, it is advised not to.(It's a bug and you'll be vulnerable to gun
-fire if it happens)
-* Keep reading the chatlog for your commander's instructions.
-* Rotating the tank at same time when right next to another tank causes
-a rare tank meeting to happen.(It is a bug and it completely ruins both
-of the collided tanks.)
-* Faster you go, easier it is to rotate the tank.
-* Do not rotate your tank near deep water tiles. If a single tile of
-your tank is on the deep water tile, you will be stuck there for an
-eternity.
+##СОВЕТЫ
+* Танки могут только двигаться вперёд или назад и поворачиваться влево или вправо. Это отличается довольно сильно от обычного управления "WASD". 
+Так что это точно займёт некоторое время для того, чтобы приноровиться к управлению. Потренируйтесь на джипах или машинах первое время.
+* Вы можете давить деревья, баррикады, и некоторые стенки зданий на танке. Никакого урона танк от этого не получит. Машины, в зависимости от их показателя веса, 
+тоже имеют данную возможность.
+* Переезжая людей на технике, Вы можете их гибать/убивать.
+* Двигаясь ровно на противника, Вы облегчите своё прицеливание, однако не забывайте, что долгая остановка на одном и том же месте - может приводить к становлению лёгкой мишенью
+для вражеских гранатомётчиков и противотанковых средств.
+* Ваш заряжающий орудия не может осуществлять перезарядку ствола при движении. Остановите на время танк и позвольте ему перезарядить пушку.
+* Двигаясь по неустановленным минам и противотанковым гранатам - вы все равно обрекаете себя на подрыв ими.
+* Вы не можете поворачиваться вокруг своей оси, стоя на одном месте. Вам необходимо двигаться, чтобы разворачиваться.
+* Быстрые развороты техники могут привести к становлению мозайкой, из-за чего Ваша техника будет разделена на несколько частей. 
+Лучше так не делать слишком часто (баг с становлением мозайкой).
+* Регулярно проверяйте чат на сообщения от командира техники.
+* Разворот танка около другого танка может привести к сливанию, отчего оба танка будут уже бесполезны (баг с колизией техник).
+* Чем быстрее Вы едите, тем быстрее поворачиваете.
+* Не разворачивайте танк около глубоких водоёмов (deep water), Вы можете просто застрять в нем навсегда.
+* Не останавливайтесь в окопах так как это приведёт к застреванию.
+* Вы можете поворачиваться со сбитой гусеницей, однако это требует некоторого усилия.
 
-### Driving
-So you want to finally be useful and not just dead weight to a crew eh? Few can drive, or well enough to do anything worthy
-of mentioning. If you want to know how to drive you've got to listen
-carefully to the steps given, and learn the mechanics of how our
-machines really work. Also a tip, **the tank is safest place you can
-be**, if you leave it because the tracks were broken you should shoot
-yourself. You're not a true tanker. A real tanker stays with his tank
-regardless of the damage until there is no tank to cling to. That
-armored coffin becomes a moving pillbox if you use it well enough.
+### УПРАВЛЕНИЕ
+Итак, ты хочешь быть действительно полезным членом экипажа, а не мёртвым грузом для остального экипажа? Единицы умеют водить. Если ты хочешь стать классным водилой, то слушай и вкушай внимательно про здешнию технику. Один из советов гласит: "**Танк, одно из самых безопасных мест, где можно быть**",
+Если ты *покинешь танк из-за того, что там просто сбитая гусеница*, **то лучше убейся**. Ты не танкист, а мудила. Настоящий танкист *остаётся внутри своей машины* до тех пор, пока она не превратится в швейцарский сыр. Этот вооружённый "**гроб**", позволяет тебе быть передвигающимся ДОТом.
+  - Вся модульная техника имеет проекцию 5x5 (танки и машины таковыми являются). Знание проекции позволит отточить навыки вождения транспорта. 
+    Обязательно изучи ниже проекции во всех четырёх направлениях и запомни их нахождение в этой проекции 5x5. Чтобы легче запомнить - достаточно ориентироваться по
+    определённому интерьеру техники, например, водительскому сиденью. У множества техники оно находится у края этой зоны. Танки - это одни из подходящих полностью под описание.
+  - Танки должны быть эккипированы в соотвествии со встречаемым противником. Больше бронированной техники у противника? Тогда берите больше бронебойных (AP) и подкалиберных (APCR) снарядов. Больше пехоты и сооружений? Тогда и, соотвественно, берите больше осколочных (HE) снарядов. И да, перееизбыток боеприпасов приводит к увеличению веса Вашей техники, отчего техника будет замедленее передвигаться. Хорошей идеей также является опустошить ящики с пулемётными лентами около Вашего пулемёта. Как раз для тех случаев, когда Вы встрянете где-нибудь на поле боя. Пулемёт - Ваш главный инструмент для выживания.
+  - Экипаж танка может управлять танком плавно и лучше, если имеется хотя бы один танкист-АС. Однако множество не могут пользоваться танком эффективно из-за их самих. 
+  Основные вещи, необходимые для опытного экипажа - это командир, отдающий приказы, и водитель. Твой успех зависит почти полностью от этих двух членов экипажа. Но ты можешь и прекрасно обойтись без командира, если Ваша цель - не уничтожение вражеской брони. А вот хороший водитель - твой ключ к успеху.
 
-  - All modular vehicles are built with a matrix of a 5x5 area. This is
-    how you'll judge where you'll be turning. Learn the position of the
-    vehicle in all 4 directions and know where it is in that 5x5 area. A
-    good idea is often to use a place, like the driver's seat for
-    reference. Most vehicles have the front at the edge of the 5x5 area.
-    Tanks are one of them.
-  - Tanks should be well equipped for the enemy you're facing. If it's
-    enemy armor, take more AP and APCR shells. If it's more infantry and
-    buildings, take more HE. Overstock and you'll be too heavy to move.
-    A good idea is to empty a crate of belts onto the floor for your MG
-    in case you become stranded. The MG's will be your main tool of
-    survival.
-  - A tank crew can operate smoothly and effectively with just 1 crewman
-    if they're a true veteran at it. However most can't run a tank
-    effectively by themselves. The main things that you should have the
-    experienced crew members in the tank be are the commander, to give
-    fire orders and call hits, and driver. Your success relies almost
-    entirely on these two positions. However you can get by alright
-    without a commander if you're not against enemy armor. A good driver
-    is the key to success.
+#### ПРИМЕР ПРОЕКЦИИ
 
-#### Example
+Представим, что мы... На Нанкине (Nanjing). Мы также рассмотрим повороты на проекции 5x5. Танки имеют 4 направления для поворота, в которую они могут развёрнуты, а ещё зона 5x5 для каждого такого поворота (примечание: траки были отключены в примере с поворотами, чтобы обеспечить стационарный поворот).
 
-Lets say we're on Nanjing. We'll also go over the 5x5 area of turning.
-Tanks have 4 Directions they can be facing, and a different position in
-their 5x5 area for each. (Note: tracks were disabled on the directional
-example to allow for stationary turning)
-
-  - The Layout of most tanks
+  - Расположение большинства танков
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714297980391260231/tank.png)
 
-The front face of a tank will always be against the edge of the 5x5 area
+Передняя проекция танка всегда будет находится напротив края зоны 5x5
 
-North
+Север
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714333304068898856/tank_north.png)
 
-West
+Запад
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714298939398029363/tank_west.png)
 
-South
+Юг
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714299673460080801/tank_south.png)
 
-East
+Восток
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714299733014741072/tank_east.png)
 
 
-So now that you've got directions, lets try a situation where you'd
-apply this knowledge. We're at an alleyway that we want to get into but
-don't have free movement to make a left turn to fit in.
+Итак, раз мы знаем теперь направления и проекции, то смоделируем ситуацию, где применим это знание. Мы у переулка, в который нам надо попасть. Но мы не можем повернуть налево и вписаться в него.
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714300361728458762/tank_alley.png)
 
-now, because we've a wall blocking us, we can't just make a left turn,
-it'll have us running into the wall north of us. Thats no good. So
-instead, because facing south makes the tank on the east side of the 5x5
-area, we can make a right turn and reverse to get in. So first set up
-against the wall. Once you've made it onto that tile turn right before
-it hits it, or it'll be no good.
+Теперь, поскольку нас блокирует стена, мы не можем повернуть налево, так как врежемся в стену на севере. Это плохо. Итак, вместо этого мы посмотрим на юг, где танк окажется на восточной части зоны 5x5, потому мы можем повернуть направо и дать задний ход. Когда мы доберёмся до этого тайла, повернём направо, пока не коснулись стены.
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714300866584248360/tank_position.png?width=285&height=405)
 
-After your turn is made, you'll be set to go in reverse to get
-through.
+После сделанного хода, двигаемся реверсом, чтобы пройти.
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714301093869256824/tank_ready.png?width=288&height=406)
 
-And then you can wedge on through in reverse, and flank the enemy by
-going through a place they assumed enemy drivers were too stupid to get
-through.
+И тогда, мы можем вклиниться задним входом и обойти противника через фланг, где, по их логике, прохождение техники маловероятно. 
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714301162244800532/tank_through.png?width=144&height=405)
