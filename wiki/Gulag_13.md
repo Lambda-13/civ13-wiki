@@ -1,116 +1,113 @@
-# Gulag RP 
+# ГУЛАГ РОЛЕПЛЕЙ
 
-**Introduction**
+**Вступление**
 
-It is the year 1946, one year after the end of WW2, when the Soviets captured you from the battlefield as you surrendered or were forcibly taken away from your homeland.
-You were taken to a distant location in the middle of nowhere, in Siberia, and you can't recall your journey as you almost froze to death in the cargo train wagon. 
-The camp is guarded by heavily armed personnel from the nkvd and there's barely any settlements to be seen in the distance, nor signs of human life. 
-Only a dim light above the barbed fence can be seen through the thick layer of fog and frost. As you look closer, there's a sign indicating: "Gulag".
-
----
-
-## Welcome to Gulag
-
-Gulag is a **HRP** map where you take the role of either a prisoner or a camp guard (whitelisted). The prisoners are divided into 3 factions, based on ethnicity: Germans, Poles and Ukrainians. 
-Each prisoner has an assigned role: Kitchen staff, Nurse, Janitor or Miner, which can be recognized by the color of the armband the prisoner is wearing. 
-The goal for each faction is to work as a team to gain as much **rubles** as possible (faction score is calculated by the amount of rubles present in each prisoner's pockets), through diverse activities in the camp, legal or not.
-Prisoners can also spend their rubles in the vendors located under the bathrooms.
-Guards must operate the mining area and export the ores (through the export book located in the hangar) prospected by the prisoners in order to generate score for their faction, while keeping law and order in the camp.
-For each ore exported there's an amount of rubles given, which can be used to pay the prisoners (or be exchanged for favors).
-
-**Always Remember:**
-**Rioting before the 30 minutes mark is a bannable offense! You're also expected to escalate properly in every conflict. Check the General Rules section of the wiki to see a good example of escalation.**
+Текущий *год 1946*; прошёл **один год** после окончания **Второй Мировой Войны**, именно тогда *Вы* были захвачены на одном из полях сражений, будь то самостоятельная сдача или принуждённая.
+После взятия в плен *Вас* отправили в *холодную бездну*, в Сибирь. Данную поездку нельзя назвать приятной, *Вы* почти замёрзли *насмерть* в вагоне для грузов. 
+*Лагерь* охраняется тяжеловооружённым персоналом из *НКВД*, а местность около него едва ли имеет небольшие *населённые пункты*. **Признаки цивилизации почти отсутствуют**.
+Сквозь густой слой тумана и инея виден лишь тусклый свет над колючим забором. Если присмотреться, то можно увидеть табличку с надписью: **«ГУЛАГ».**
 
 ---
 
-# Guards Guidelines and Regulations:
+## Добро пожаловать в Гулаг.
 
-As a guard, you're equipped with the necessary tools to bring order and discipline among the prisoners.
+Гулаг это **ХРП (ВысокогоУровеняОтыгрышаРоли)** карта, где *Вы* можете стать заключённым или охранником лагеря. Узники поделены на **три фракции**, разделение которых состоит по этносу: **Немцы, Поляки, Украинцы.**
+Ко всем *заключённым* привязаны рабочие обязанности, включащие в себя: **персонал кухни, лекари, уборщики и шахтёры** - отличить их возможно по *наплечным повязкам* соответствующего цвета.
+Основная **цель** всех группировок - работать сообща, чтобы получить как можно больше **рублей** (счёт фракции рассчитывается количеством рублей в карманах зеков), используя любые пути для их получения *как и легальные, так и нелегальные.*
+Узникам представляется возможность тратить накопленные *рубли в автоматах* (они у столовой).
+Охранники *обязаны* следить и управлять шахтой, а также экспортировать руду (через экспортную книжку aka export book, расположенную в ангаре). Экспорт руды приносит очки для фракции. Шахта является легальным способом для получения очков фракции. За каждую руду выдаётся определённое количество рублей, которые предоставляются охранниками для заключенных как зарплату.
 
-**In your belt, you'll find:**
+**ВСЕГДА ПОМНИТЕ:**
+**За устраивание бунта до 30 минуты раунда выдаётся наказание. От Вас ожидается правильная, логичная эскалация конфликта. Перепроверьте правила на вики/дискорде, получить пример хорошего построения конфликта и его дальнейшей эскалации.**
 
- - A **whistle** to alarm other guards and prisoners. 
- - A pair of **handcuffs** for detaining prisoners.
- - A pair of **binoculars** which is useful for people who's assigned to watchtowers.
- - A sturdy **baton** that immediately put prisoners to the ground once they took a hit or two. 
- - A roll of **bint** to provide first-aid for yourself, your comrades and, at last, the inmates.
+---
+
+# Охранник 101 и всё про него:
+
+Как один из членов охраны лагеря Вы эккипированы необходимыми вещами для выполнения приказов и поддержания дисциплины среди заключённых.
+
+**На вашей поясной сумке будут:**
+
+ - **Свисток** - для привлечения внимания сослуживцев и заключённых. *Используется редко?...* 
+ - Пару **наручников** - для задержания заключённых.
+ - **Бинокль** - очень полезный прибор для осмотра территории внутри Гулага с вышек, просмотра территории вокруг Гулага.
+ - **Деревянная дубинка** - для избивания заключённых или вправления мозгов. 
+ - **Бинт** - первая помощь себе, товарищу сослуживцу и узнику пробитому.
  
- Additional equipment such as flashlights can be found in the tool shed (south of the Guard Medical Area). More advanced equipment can be distributed by supervisors and/or the camp commander. Do not hesitate to stock up on xylil bromide grenades as they are an effective method to subdue prisoners.
+ Вторичное снаряжение наподобии фонариков можно найти в tool shed (южнее от госпиталя). Остальное продвинутое снаряжение выдаётся Старшиной и/или Руководителем Гулага. 
+ *Использование xylil гранат достаточно эффективный метод для усмирения заключённых. Вы - Власть, не стесняйтесь в методах подавления.*
  
-**All firearms must remain OUTSIDE of the prison area! Failure to follow this protocol as a guard is a valid reason for a demotion/discharge/execution.**
+**Любое огнестрельное вооружение должно оставаться ВНЕ блока заключённых! Нарушение данного пункта протокола приведёт вас, как охранника, к немедленному понижению в должности/отправку в ссылку/возможной казни.**
 
-### Now that you are equipped and ready, here are the things you can do as guard to ensure safety and enforce forced labor amongst the prisoners:
+### ПУНКТЫ, КОТОРЫЕ ВАМ СЛЕДУЕТ СОБЛЮДАТЬ:
 
-**Killing a prisoner for their rubles is OOCly punishable.**
- - This is considered as RDM and greatly frowned upon by the community and thus, you should avoid this. Similarly, Prisoners can **bribe** you to let them go, be freed from the containment cell and lastly, being supplied with foods or medicine.
+**Убийство заключённых за их рубли наказуемо.**
+ - В целом, это можно засчитать как убийство ради убийства, что является не очень веской причиной для такого действия. К слову, заключённые могут вас **подкупить**, чтобы вы их отпустили из карцера или снабдили едой и медициной. 
 
-**Maintain absolute peace, discipline and order among the inmates.**
- - Punish them accordingly to the crime they have committed. Avoid executions at all costs (only if it's an absolute necessity) as it's one less worker for your camp.
+**Поддерживание абсолютного дисциплины и порядка среди заключенных.**
+ - Наказывайте зеков соответствующе с их наказанием. Казни рекомендуются только в крайнем случае, так как каждый узник Гулага - Ваш рабочий.
 
-**If it's time for work, then EVERYONE should work.**
- - There should be no prisoners roaming around without doing nothing. Everyone has an assigned role and should fulfill their duties.
+**Если пришло время работы, то работают ВСЕ.**
+ - В лагере не место тунеядцам. У всех пребывающих есть присвоенная должность, поэтому каждому необходимо работать.
 
-**A lone guard is a dead guard. Always have a patrol partner inside the prison area.**
- - You must always have a partner to patrol with you around the gulag. Gulag is a nasty and opportunistic place where anything is possible to happen, never go alone or prisoners might just beat you up for your keys and equipment.
+**Одинокий волк - мёртвый волк. Патрулируйте в паре с кем-то на территории Гулага.**
+ - Вам следует патрулировать в паре с кем-то. Гулаг - место грязное и опасное, тут имеет место быть всему, что может произойти. В ином случае повышается шанс быть побитым/убитым/обворованным.
+**Еда - главная нужда заключённого.**
+- Хорошо откормленный узник будет добрее к Вам, и с большим рабочим запалом, чем голодный. Не допускайте случаев каннибализма, как способ пропитания для заключённых.
 
-**Food is a necessity for the inmates.**
-- A well-fed inmate will have better performance and compliance than a malnourished one. Do not let cannibalism be an option for the prisoners.
-
-**A dead prisoner is a liability for the Motherland.**
-- Prevent fights, do inspections, confiscate contraband, treat injured/sick inmates. This is the minimum you can do to prevent death in the camp. However, keep a rational use of equipment. Do not waste too much medical equipment on a dying prisoner.
+**Мёртвый узник - Ваша проблема перед Родиной.**
+- Не допускайте драк, проводите допросы, конфискуйте контрабанду, лечите раненых/больных заключённых - всё это Ваш минимум для поддержания жизни в лагере. Однако, соблюдайте здравое использование снаряжения, например, не стоит тратить слишком много медикаментов на умирающего пленника. 
 
 ---
 
-## Mining Protocols
+## Протоколы шахты
  
-### Before Mining 
-- Make sure to keep a list of every equipment that can be found inside the mining closets as well as what can be found in the mining shaft.
-- Take note of who goes in and out of the mining facility by taking their ID before they go downwards, then hand it back over as soon as they are finished mining.
-- Make sure no one tries to escape by performing regular checks in the mine. Bring at least two other guards with you and have a gas grenade ready (do not forget to put on your gasmask!).
-- Ores can be melted into ingots, make sure no one tries to make a weapon out of it. If they do, confiscate and punish the perpetrator accordingly.
-- Collected ores are to be put in the mining cart which has to be pushed into the hangar for exports. Place the ore stack on the export book to recieve points and money.
+### До добычи ископаемых заключенными
+- Обязательно ведите список всего оборудования, которое находится в шкафчиках со снаряжением для горнодобывающего дела, а также того, что будет найдено в шахте.
+- Записывайте, кто входит и выходит из горнодобывающего объекта, забирайте у них удостоверение личности прежде чем они спустятся вниз, а затем возвращайте его обратно, как только они закончат добычу.
+- Убедитесь, что никто не пытается сбежать, регулярно проверяя шахту. Прихватите с собой как минимум двух других охранников и приготовьте газовую гранату (не забудьте надеть противогаз) на случай чего.
+- Руду можно переплавить в слитки, поэтому следите, чтобы никто не пытался сделать из нее оружие. Если они это сделают, конфискуйте и накажите виновного соответствующим образом.
+- Собранную руду нужно положить в шахтерскую тележку, которую после необходимо затолкать в ангар для экспорта. Поместите стопку руды в книгу экспорта, чтобы получить очки и деньги.
 
-### After Mining
-- One by one, prisoners should hand over ALL of their mining equipment to be put back in the lockers and be FULLY searched for anything that they may have taken out of the mines.
-- Once a prisoner is clear, they should **recieve a payment** for their work. Money recieved from the ore exports has to be used for this. However, do not overpay a prisoner.
-- Do not forget to hand back over the inmate's ID.
-- If there is some missing equipment in the lockers then inform your higher-ups so they can perform an immediate inspection of the prisoner area.
-
----
-
-## Cafeteria Protocols
-
-- Food rations have to be given regularly to the kitchen staff. However, higher-ups can decide to reduce or temporarily suspend its distribution.
-- **ONLY kitchen staff** may be in the kitchen area, delimited by a warning strip on the floor. 
-- Cannibalism should be immediately punished and food containing human meat must be disposed in order to avoid sickness.
-- The cafeteria should remain clean at all times, you do not want fecal matter or bacteria in the food.
-- It is possible to ask for money for the distributed food, however it's severly discouraged. Guards who are doing this may be caught by the higher-ups and be demoted/discharged for corruption.
+### После добычи ископаемых заключенными
+- Одним за другим заключенные должны сдать ВСЁ своё горнодобывающее снаряжение, положив его обратно в шкафчики, и ПОЛНОСТЬЮ обыщены, на наличие вынесенных из шахт руд, слитков и прочего.
+- Как только заключенный сдаст снаряжение и будет обыщен, ему обязано предоставление **получения оплаты** за свою работу. Для этого необходимо использовать деньги, полученные от экспорта руды. Однако не переплачивайте заключенному.
+- Не забудьте вернуть удостоверение заключенному.
+- Если в шкафчиках пропало какое-то оборудование, сообщите об этом своему начальству, чтобы они могли немедленно начать процедуру проверки блока заключенных.
 
 ---
 
-# Prisoner's Guide to Gulag
+## Протоколы столовой
 
-*Your goal is not to escape, kill guards, or kill other fellow prisoners (even if they are from a different faction), but instead focus on getting more money for your team.*
+- Пищевые рационы должны выдаваться на постоянной основе персоналом кухни. Однако вышестоящее руководство может принимать решения о уменьшении или временной приостановке выдачи рационов питания. 
+- **Только заключенные ответственные за кухню** могут находиться в зоне кухни, ограниченной специальной полосой на полу.
+- Каннибализм должен немедленно наказывается, и еда, содержащая человеческое мясо, обязана быть утирилизирована, во избежание распространения вредоносных болезней.
+- Столовая должна оставаться чистой всегда, дабы не возникали случаи появления в пищи болезнетворных бактерий. 
+- За раздаваемую еду можно попросить деньги, но это категорически не рекомендуется. Охранники, которые так делают, могут быть пойманы начальством и понижены в должности/уволены за коррупцию.
 
-**Your goal is to gather as many rubles as possible.**
+---
 
-There's plenty of ways to earn them:
+# Руководство Узника Гулага
 
-1. Mining 
- - Mining is easy but the price of your hard work is easily manipulated by the guards on duty. Regardless, prisoners are expected to be paid. If the guards don't pay, try to get ahold of a camp supervisor or commander.
+*Ваша цель - не сбежать из лагеря, не убивать охранников или других заключённых (даже если они из другой фракции), а получить как можно больше **рублей**.*
 
-2. Underground Fight Club 
- - What goes on in the fight club stays in the fight club. Make sure to not kill any of your opponents and stay humble and honorable. A surrendered opponent shouldn't be killed. Observers shouldn't intervene.
+Немного про то, как же получить рубли: 
 
-3. Services 
- - There's a lot of services that can be offered to prisoners. Some of these include **medical services**, **food services**, **cleaning services**, **farming services**, **"protection services"**.
+1. Работа на Шахте
+ - Добывать руду легко, но цена за Ваш труд легко манипулируется дежурными охранниками. Тем не менее, ожидается, что заключенным будут платить соотвествующую зарплату. Если охрана не платит, попробуйте связаться с начальником или командиром лагеря.
 
-This is for the prisoners only.
-Remember, the best way to enjoy the round is acting accordingly and appropriately to the setting.
+2. Бойцовский клуб
+ - *Первое правило бойцовского клуба: Все, что происходит в бойцовском клубе, остается в бойцовском клубе.* 
+ - Обязательно оставляйте Ваших противников живыми и оставайтесь скромным и благородным. Сдавшегося противника нельзя убивать. Наблюдатели не должны вмешиваться.
 
-**Escape is not advised nor is it a wise thing to do as you're in the middle of nowhere, far from civilization...**
+3. Выполнение различных услуг
+ - Заключенные могут предлагать множество услуг. Некоторые из них включают **медицинские услуги**, **услуги питания**, **услуги по уборке**, **сельскохозяйственные услуги**, **"услуги по охране"**.
 
-Collaborators are a whitelisted role, they must keep their role secret from the other prisoners. Guards are to protect their identity as well and should reward them for useful information.
-Other prisoners may be agressive towards them, especially for snitching out. However, killing them should be avoided.
+Данный пункт только для заключённых Гулага.
+Помните: лучший способ получить удовольствие от раунда — действовать соответственно и в соответствии с обстановкой.
+
+**Побег из Гулага не рекомендуется и неразумен, поскольку вы находитесь в глуши, вдали от цивилизации...**
+
+Роль коллаборационистов - сообщать сведения и всячески помогать охранникам Гулага, однако они должны хранить свою роль в секрете от других заключенных. Охранники должны защищать своих коллаборационистов и вознаграждать их за полезную информацию. Другие заключенные могут быть агрессивны по отношению к ним, особенно за доносы. Однако следует избегать их убийства.
 
 ---
